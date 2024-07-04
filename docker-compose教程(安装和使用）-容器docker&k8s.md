@@ -1,4 +1,3 @@
-[thwszy.cn](http://thwszy.cn:10087/doc/62/)
 # docker-compose教程(安装和使用） - 容器Docker&k8s
 
 3 min read
